@@ -1,0 +1,918 @@
+[
+  {
+    "id": 1,
+    "title": "INTERNET FC GRADIENT JERSEY tern® (HOME)",
+    "price": 6490,
+    "category": "T-SHIRT",
+    "image": "https://in.tern.et/cdn/shop/files/blue-web-back.jpg?v=1721996904&width=360",
+    "thumbnails": [
+      "https://in.tern.et/cdn/shop/files/blue-web-front.jpg?v=1721996904&width=120",
+      "https://in.tern.et/cdn/shop/files/blue-web-back.jpg?v=1721996904&width=120",
+      "https://cdn.shopify.com/s/files/1/0619/9479/5171/files/purple-web-front_180x.jpg?v=1721992810",
+      "https://cdn.shopify.com/s/files/1/0619/9479/5171/files/bootleg-web-front_180x.jpg?v=1722001141"
+    ],
+    "sizes": ["XS", "S", "M", "L", "XL", "XXL"],
+    "badge": "https://in.tern.et/cdn/shop/files/Blue_Purple_Jersey.png?v=1722597898&width=360"
+  },
+  {
+    "id": 2,
+    "title": "BOOTLEG '04 SOCCER JERSEY tern®",
+    "price": 6490,
+    "category": "T-SHIRT",
+    "image": "https://in.tern.et/cdn/shop/files/bootleg-web-back.jpg?v=1722001141&width=535",
+    "thumbnails": [
+      "https://cdn.shopify.com/s/files/1/0619/9479/5171/files/bootleg-web-front_180x.jpg?v=1722001141",
+      "https://cdn.shopify.com/s/files/1/0619/9479/5171/files/purple-web-front_180x.jpg?v=1721992810",
+      "https://cdn.shopify.com/s/files/1/0619/9479/5171/files/bootleg-web-front_180x.jpg?v=1722001141"
+    ],
+    "sizes": ["XS", "S", "M", "L", "XL", "XXL"],
+    "badge": "https://in.tern.et/cdn/shop/files/Yellow_Jersey.png?v=1722597909&width=360"
+  },
+  {
+    "id": 3,
+    "title": "FLAT GREY TECH TEE tern®",
+    "price": 4990,
+    "category": "T-SHIRT",
+    "image": "https://in.tern.et/cdn/shop/files/web-tern-onyx.jpg?v=1699629570&width=1100",
+    "thumbnails": [
+      "https://cdn.shopify.com/s/files/1/0619/9479/5171/files/web-tripleblack-3_180x.jpg?v=1690817274",
+      "https://cdn.shopify.com/s/files/1/0619/9479/5171/files/web-tern-onyx_180x.jpg?v=1699629570",
+      "https://cdn.shopify.com/s/files/1/0619/9479/5171/files/webpackshot-triplewhite_180x.jpg?v=1712658201",
+      "https://cdn.shopify.com/s/files/1/0619/9479/5171/files/bluecollegeweb_180x.jpg?v=1694534337",
+      "https://cdn.shopify.com/s/files/1/0619/9479/5171/files/collegeredweb_180x.jpg?v=1694534053",
+      "https://cdn.shopify.com/s/files/1/0619/9479/5171/files/web-tern-tech-green_180x.jpg?v=1688039459",
+      "https://cdn.shopify.com/s/files/1/0619/9479/5171/files/triplebluetechtee_180x.jpg?v=1712665050"
+    ],
+    "sizes": ["XS", "S", "M", "L", "XL", "XXL"],
+    "badge": "https://in.tern.et/cdn/shop/files/Tech_Tee.png?v=1704799891&width=360"
+  },
+  {
+    "id": 4,
+    "title": "TRIPLE BLACK TECH TEE tern®",
+    "price": 4990,
+    "category": "T-SHIRT",
+    "image": "https://in.tern.et/cdn/shop/files/web-tripleblack-3.jpg?v=1690817274&width=1100",
+    "thumbnails": [
+      "https://cdn.shopify.com/s/files/1/0619/9479/5171/files/web-tripleblack-3_180x.jpg?v=1690817274",
+      "https://cdn.shopify.com/s/files/1/0619/9479/5171/files/web-tern-onyx_180x.jpg?v=1699629570",
+      "https://cdn.shopify.com/s/files/1/0619/9479/5171/files/webpackshot-triplewhite_180x.jpg?v=1712658201",
+      "https://cdn.shopify.com/s/files/1/0619/9479/5171/files/bluecollegeweb_180x.jpg?v=1694534337",
+      "https://cdn.shopify.com/s/files/1/0619/9479/5171/files/collegeredweb_180x.jpg?v=1694534053",
+      "https://cdn.shopify.com/s/files/1/0619/9479/5171/files/web-tern-tech-green_180x.jpg?v=1688039459",
+      "https://cdn.shopify.com/s/files/1/0619/9479/5171/files/triplebluetechtee_180x.jpg?v=1712665050"
+    ],
+    "sizes": ["XS", "S", "M", "L", "XL", "XXL"],
+    "badge": "https://in.tern.et/cdn/shop/files/Tech_Tee.png?v=1704799891&width=360"
+  },
+  {
+    "id": 5,
+    "title": "TRIPLE WHITE TECH TEE tern®",
+    "price": 4990,
+    "category": "T-SHIRT",
+    "image": "https://in.tern.et/cdn/shop/files/webpackshot-triplewhite.jpg?v=1712658201&width=1100",
+    "thumbnails": [
+      "https://cdn.shopify.com/s/files/1/0619/9479/5171/files/web-tripleblack-3_180x.jpg?v=1690817274",
+      "https://cdn.shopify.com/s/files/1/0619/9479/5171/files/web-tern-onyx_180x.jpg?v=1699629570",
+      "https://cdn.shopify.com/s/files/1/0619/9479/5171/files/webpackshot-triplewhite_180x.jpg?v=1712658201",
+      "https://cdn.shopify.com/s/files/1/0619/9479/5171/files/bluecollegeweb_180x.jpg?v=1694534337",
+      "https://cdn.shopify.com/s/files/1/0619/9479/5171/files/collegeredweb_180x.jpg?v=1694534053",
+      "https://cdn.shopify.com/s/files/1/0619/9479/5171/files/web-tern-tech-green_180x.jpg?v=1688039459",
+      "https://cdn.shopify.com/s/files/1/0619/9479/5171/files/triplebluetechtee_180x.jpg?v=1712665050"
+    ],
+    "sizes": ["XS", "S", "M", "L", "XL", "XXL"],
+    "badge": "https://in.tern.et/cdn/shop/files/Tech_Tee.png?v=1704799891&width=360"
+  },
+  {
+    "id": 6,
+    "title": "TRIPLE BLUE TECH TEE tern®",
+    "price": 4990,
+    "category": "T-SHIRT",
+    "image": "https://in.tern.et/cdn/shop/files/webpackshot-triplewhite.jpg?v=1712658201&width=1100",
+    "thumbnails": [
+      "https://cdn.shopify.com/s/files/1/0619/9479/5171/files/web-tripleblack-3_180x.jpg?v=1690817274",
+      "https://cdn.shopify.com/s/files/1/0619/9479/5171/files/web-tern-onyx_180x.jpg?v=1699629570",
+      "https://cdn.shopify.com/s/files/1/0619/9479/5171/files/webpackshot-triplewhite_180x.jpg?v=1712658201",
+      "https://cdn.shopify.com/s/files/1/0619/9479/5171/files/bluecollegeweb_180x.jpg?v=1694534337",
+      "https://cdn.shopify.com/s/files/1/0619/9479/5171/files/collegeredweb_180x.jpg?v=1694534053",
+      "https://cdn.shopify.com/s/files/1/0619/9479/5171/files/web-tern-tech-green_180x.jpg?v=1688039459",
+      "https://cdn.shopify.com/s/files/1/0619/9479/5171/files/triplebluetechtee_180x.jpg?v=1712665050"
+    ],
+    "sizes": ["XS", "S", "M", "L", "XL", "XXL"],
+    "badge": "https://in.tern.et/cdn/shop/files/Tech_Tee.png?v=1704799891&width=360"
+  },
+  {
+    "id": 7,
+    "title": "DARK GREY EXPRESS HOODIE tern®",
+    "price": 7990,
+    "category": "HOODIES",
+    "image": "https://in.tern.et/cdn/shop/files/expressgris-zoom.jpg?v=1715763177&width=1100",
+    "thumbnails": [
+      "https://cdn.shopify.com/s/files/1/0619/9479/5171/files/hoodie-expres-mockup_180x.jpg?v=1713101301",
+      "https://cdn.shopify.com/s/files/1/0619/9479/5171/files/expressolive_d22bbc24-06bb-4f0a-b4b2-e9ed9bce4019_180x.jpg?v=1715760093"
+    ],
+    "sizes": ["XS", "S", "M", "L", "XL", "XXL"],
+    "badge": "https://in.tern.et/cdn/shop/files/Size_Chart_Hoodies_2.png?v=1700669674&width=360"
+  },
+  {
+    "id": 8,
+    "title": "BLUE LIGHT LEAK KNIT tern®",
+    "price": 10990,
+    "category": "KNITS",
+    "image": "https://in.tern.et/cdn/shop/files/web-blue-cc.jpg?v=1690474479&width=1100",
+    "thumbnails": [
+      "https://cdn.shopify.com/s/files/1/0619/9479/5171/files/web-blue-cc_180x.jpg?v=1690474479",
+      "https://cdn.shopify.com/s/files/1/0619/9479/5171/files/webpackshot-cherry_180x.jpg?v=1704195828",
+      "https://cdn.shopify.com/s/files/1/0619/9479/5171/files/webpackshot-purple-v2_180x.jpg?v=1704271037",
+      "https://cdn.shopify.com/s/files/1/0619/9479/5171/files/webpackshot-topo_180x.jpg?v=1704197810"
+    ],
+    "sizes": ["XS", "S", "M", "L", "XL", "XXL"],
+    "badge": "https://in.tern.et/cdn/shop/files/Knit_Mohair.png?v=1723813536&width=360"
+  },
+  {
+    "id": 9,
+    "title": "PURPLE LIGHT LEAK KNIT tern®",
+    "price": 10990,
+    "category": "KNITS",
+    "image": "https://in.tern.et/cdn/shop/files/web-blue-cc.jpg?v=1690474479&width=1100",
+    "thumbnails": [
+      "https://cdn.shopify.com/s/files/1/0619/9479/5171/files/web-blue-cc_180x.jpg?v=1690474479",
+      "https://cdn.shopify.com/s/files/1/0619/9479/5171/files/webpackshot-cherry_180x.jpg?v=1704195828",
+      "https://cdn.shopify.com/s/files/1/0619/9479/5171/files/webpackshot-purple-v2_180x.jpg?v=1704271037",
+      "https://cdn.shopify.com/s/files/1/0619/9479/5171/files/webpackshot-topo_180x.jpg?v=1704197810"
+    ],
+    "sizes": ["XS", "S", "M", "L", "XL", "XXL"],
+    "badge": "https://in.tern.et/cdn/shop/files/Knit_Mohair.png?v=1723813536&width=360"
+  },
+  {
+    "id": 10,
+    "title": "TRIPLE BLACK TECH TEE LONGSLEEVE tern®",
+    "price": 5990,
+    "category": "T-SHIRT",
+    "image": "https://in.tern.et/cdn/shop/files/tripleblacklongsleeve.jpg?v=1714328735&width=1100",
+    "thumbnails": [
+      "https://cdn.shopify.com/s/files/1/0619/9479/5171/files/webpackshot_3a1093c4-7751-4b0f-8240-51ba4881ae04_180x.jpg?v=1704562135",
+      "https://cdn.shopify.com/s/files/1/0619/9479/5171/files/tripleblacklongsleeve_180x.jpg?v=1714328735"
+    ],
+    "sizes": ["XS", "S", "M", "L", "XL", "XXL"],
+    "badge": "https://in.tern.et/cdn/shop/files/longsleeve_tech_tee.png?v=1704799816&width=360"
+  },
+  {
+    "id": 11,
+    "title": "OG TECH TEE LONGSLEEVE tern®",
+    "price": 5990,
+    "category": "T-SHIRT",
+    "image": "https://in.tern.et/cdn/shop/files/webpackshot_3a1093c4-7751-4b0f-8240-51ba4881ae04.jpg?v=1704562135&width=1100",
+    "thumbnails": [
+      "https://cdn.shopify.com/s/files/1/0619/9479/5171/files/webpackshot_3a1093c4-7751-4b0f-8240-51ba4881ae04_180x.jpg?v=1704562135",
+      "https://cdn.shopify.com/s/files/1/0619/9479/5171/files/tripleblacklongsleeve_180x.jpg?v=1714328735"
+    ],
+    "sizes": ["XS", "S", "M", "L", "XL", "XXL"],
+    "badge": "https://in.tern.et/cdn/shop/files/longsleeve_tech_tee.png?v=1704799816&width=360"
+  },
+  {
+    "id": 12,
+    "title": "INTERNET FC GRADIENT JERSEY tern® (AWAY)",
+    "price": 6490,
+    "category": "T-SHIRT",
+    "image": "https://in.tern.et/cdn/shop/files/purple-web-back.jpg?v=1721992810&width=1100",
+    "thumbnails": [
+      "https://cdn.shopify.com/s/files/1/0619/9479/5171/files/bootleg-web-front_180x.jpg?v=1722001141",
+      "https://cdn.shopify.com/s/files/1/0619/9479/5171/files/purple-web-front_180x.jpg?v=1721992810",
+      "https://cdn.shopify.com/s/files/1/0619/9479/5171/files/bootleg-web-front_180x.jpg?v=1722001141"
+    ],
+    "sizes": ["XS", "S", "M", "L", "XL", "XXL"],
+    "badge": "https://in.tern.et/cdn/shop/files/longsleeve_tech_tee.png?v=1704799816&width=360"
+  },
+  {
+    "id": 13,
+    "title": "COLLEGE RED TECH TEE tern®",
+    "price": 4990,
+    "category": "T-SHIRT",
+    "image": "https://in.tern.et/cdn/shop/files/collegeredweb.jpg?v=1694534053&width=1946",
+    "thumbnails": [
+      "https://cdn.shopify.com/s/files/1/0619/9479/5171/files/web-tripleblack-3_180x.jpg?v=1690817274",
+      "https://cdn.shopify.com/s/files/1/0619/9479/5171/files/web-tern-onyx_180x.jpg?v=1699629570",
+      "https://cdn.shopify.com/s/files/1/0619/9479/5171/files/webpackshot-triplewhite_180x.jpg?v=1712658201",
+      "https://cdn.shopify.com/s/files/1/0619/9479/5171/files/bluecollegeweb_180x.jpg?v=1694534337",
+      "https://cdn.shopify.com/s/files/1/0619/9479/5171/files/collegeredweb_180x.jpg?v=1694534053",
+      "https://cdn.shopify.com/s/files/1/0619/9479/5171/files/web-tern-tech-green_180x.jpg?v=1688039459",
+      "https://cdn.shopify.com/s/files/1/0619/9479/5171/files/triplebluetechtee_180x.jpg?v=1712665050"
+    ],
+    "sizes": ["XS", "S", "M", "L", "XL", "XXL"],
+    "badge": "https://in.tern.et/cdn/shop/files/Tech_Tee.png?v=1704799891&width=360"
+  },
+  {
+    "id": 14,
+    "title": "COLLEGE BLUE TECH TEE tern®",
+    "price": 4990,
+    "category": "T-SHIRT",
+    "image": "https://cdn.shopify.com/s/files/1/0619/9479/5171/files/bluecollegeweb.jpg?v=1694534337&width=1100",
+    "thumbnails": [
+      "https://cdn.shopify.com/s/files/1/0619/9479/5171/files/web-tripleblack-3_180x.jpg?v=1690817274",
+      "https://cdn.shopify.com/s/files/1/0619/9479/5171/files/web-tern-onyx_180x.jpg?v=1699629570",
+      "https://cdn.shopify.com/s/files/1/0619/9479/5171/files/webpackshot-triplewhite_180x.jpg?v=1712658201",
+      "https://cdn.shopify.com/s/files/1/0619/9479/5171/files/bluecollegeweb_180x.jpg?v=1694534337",
+      "https://cdn.shopify.com/s/files/1/0619/9479/5171/files/collegeredweb_180x.jpg?v=1694534053",
+      "https://cdn.shopify.com/s/files/1/0619/9479/5171/files/web-tern-tech-green_180x.jpg?v=1688039459",
+      "https://cdn.shopify.com/s/files/1/0619/9479/5171/files/triplebluetechtee_180x.jpg?v=1712665050"
+    ],
+    "sizes": ["XS", "S", "M", "L", "XL", "XXL"],
+    "badge": "https://in.tern.et/cdn/shop/files/Tech_Tee.png?v=1704799891&width=360"
+  },
+  {
+    "id": 15,
+    "title": "COLLEGE GREEN TECH TEE tern®",
+    "price": 4990,
+    "category": "T-SHIRT",
+    "image": "https://cdn.shopify.com/s/files/1/0619/9479/5171/files/web-tern-tech-green.jpg?v=1688039459&width=1100",
+    "thumbnails": [
+      "https://cdn.shopify.com/s/files/1/0619/9479/5171/files/web-tripleblack-3_180x.jpg?v=1690817274",
+      "https://cdn.shopify.com/s/files/1/0619/9479/5171/files/web-tern-onyx_180x.jpg?v=1699629570",
+      "https://cdn.shopify.com/s/files/1/0619/9479/5171/files/webpackshot-triplewhite_180x.jpg?v=1712658201",
+      "https://cdn.shopify.com/s/files/1/0619/9479/5171/files/bluecollegeweb_180x.jpg?v=1694534337",
+      "https://cdn.shopify.com/s/files/1/0619/9479/5171/files/collegeredweb_180x.jpg?v=1694534053",
+      "https://cdn.shopify.com/s/files/1/0619/9479/5171/files/web-tern-tech-green_180x.jpg?v=1688039459",
+      "https://cdn.shopify.com/s/files/1/0619/9479/5171/files/triplebluetechtee_180x.jpg?v=1712665050"
+    ],
+    "sizes": ["XS", "S", "M", "L", "XL", "XXL"],
+    "badge": "https://in.tern.et/cdn/shop/files/Tech_Tee.png?v=1704799891&width=360"
+  },
+  {
+    "id": 16,
+    "title": "TONAL PURPLE TECH TEE tern®",
+    "price": 4990,
+    "category": "T-SHIRT",
+    "image": "https://cdn.shopify.com/s/files/1/0619/9479/5171/files/tonal-violet-web.jpg?v=1694533649&width=1100",
+    "thumbnails": [
+      "https://cdn.shopify.com/s/files/1/0619/9479/5171/files/web-tripleblack-3_180x.jpg?v=1690817274",
+      "https://cdn.shopify.com/s/files/1/0619/9479/5171/files/web-tern-onyx_180x.jpg?v=1699629570",
+      "https://cdn.shopify.com/s/files/1/0619/9479/5171/files/webpackshot-triplewhite_180x.jpg?v=1712658201",
+      "https://cdn.shopify.com/s/files/1/0619/9479/5171/files/bluecollegeweb_180x.jpg?v=1694534337",
+      "https://cdn.shopify.com/s/files/1/0619/9479/5171/files/collegeredweb_180x.jpg?v=1694534053",
+      "https://cdn.shopify.com/s/files/1/0619/9479/5171/files/web-tern-tech-green_180x.jpg?v=1688039459",
+      "https://cdn.shopify.com/s/files/1/0619/9479/5171/files/triplebluetechtee_180x.jpg?v=1712665050"
+    ],
+    "sizes": ["XS", "S", "M", "L", "XL", "XXL"],
+    "badge": "https://in.tern.et/cdn/shop/files/Tech_Tee.png?v=1704799891&width=360"
+  },
+  {
+    "id": 17,
+    "title": "TONAL PINK TECH TEE tern®",
+    "price": 4990,
+    "category": "T-SHIRT",
+    "image": "https://cdn.shopify.com/s/files/1/0619/9479/5171/files/pinktechteetomlogistique-3.jpg?v=1719912061&width=1100",
+    "thumbnails": [
+      "https://cdn.shopify.com/s/files/1/0619/9479/5171/files/web-tripleblack-3_180x.jpg?v=1690817274",
+      "https://cdn.shopify.com/s/files/1/0619/9479/5171/files/web-tern-onyx_180x.jpg?v=1699629570",
+      "https://cdn.shopify.com/s/files/1/0619/9479/5171/files/webpackshot-triplewhite_180x.jpg?v=1712658201",
+      "https://cdn.shopify.com/s/files/1/0619/9479/5171/files/bluecollegeweb_180x.jpg?v=1694534337",
+      "https://cdn.shopify.com/s/files/1/0619/9479/5171/files/collegeredweb_180x.jpg?v=1694534053",
+      "https://cdn.shopify.com/s/files/1/0619/9479/5171/files/web-tern-tech-green_180x.jpg?v=1688039459",
+      "https://cdn.shopify.com/s/files/1/0619/9479/5171/files/triplebluetechtee_180x.jpg?v=1712665050"
+    ],
+    "sizes": ["XS", "S", "M", "L", "XL", "XXL"],
+    "badge": "https://in.tern.et/cdn/shop/files/Tech_Tee.png?v=1704799891&width=360"
+  },
+  {
+    "id": 17,
+    "title": "OCEAN HARDSHELL JACKET 1.0 tern®",
+    "price": 16500,
+    "category": "JACKETS",
+    "image": "https://in.tern.et/cdn/shop/files/hardshell-fixed.jpg?v=1714344501&width=1100",
+    "thumbnails": [
+      "https://cdn.shopify.com/s/files/1/0619/9479/5171/files/webpackshot_2b702ee2-ba46-4311-9d98-0ba00cfb908c_180x.jpg?v=1709289541",
+      "https://cdn.shopify.com/s/files/1/0619/9479/5171/files/hardshell-fixed_180x.jpg?v=1714344501"
+    ],
+    "sizes": ["XS", "S", "M", "L", "XL", "XXL"],
+    "badge": "https://in.tern.et/cdn/shop/files/Hardshell.png?v=1714641977&width=360"
+  },
+  {
+    "id": 18,
+    "title": "OCEAN TECH CAP (SHORT BRIM)",
+    "price": 4200,
+    "category": "HEADWEAR",
+    "image": "https://in.tern.et/cdn/shop/files/TROPFORTPACKSHOT.jpg?v=1715007737&width=1100",
+    "thumbnails": [
+      "https://cdn.shopify.com/s/files/1/0619/9479/5171/files/rge_180x.jpg?v=1715010055",
+      "https://cdn.shopify.com/s/files/1/0619/9479/5171/files/TROPFORTPACKSHOT_180x.jpg?v=1715007737"
+    ],
+    "sizes": ["XS", "S", "M", "L", "XL", "XXL"]
+  },
+  {
+    "id": 19,
+    "title": "BONE HARDSHELL JACKET 1.0 tern®",
+    "price": 16500,
+    "category": "JACKETS",
+    "image": "https://in.tern.et/cdn/shop/files/hardshell-fixed.jpg?v=1714344501&width=1100",
+    "thumbnails": [
+      "https://cdn.shopify.com/s/files/1/0619/9479/5171/files/webpackshot_2b702ee2-ba46-4311-9d98-0ba00cfb908c_180x.jpg?v=1709289541",
+      "https://cdn.shopify.com/s/files/1/0619/9479/5171/files/hardshell-fixed_180x.jpg?v=1714344501"
+    ],
+    "sizes": ["XS", "S", "M", "L", "XL", "XXL"],
+    "badge": "https://in.tern.et/cdn/shop/files/Hardshell.png?v=1714641977&width=360"
+  },
+  {
+    "id": 20,
+    "title": "BONE TECH CAP (SHORT BRIM)",
+    "price": 4200,
+    "category": "HEADWEAR",
+    "image": "https://in.tern.et/cdn/shop/files/rge.jpg?v=1715010055&width=1100",
+    "thumbnails": [
+      "https://cdn.shopify.com/s/files/1/0619/9479/5171/files/rge_180x.jpg?v=1715010055",
+      "https://cdn.shopify.com/s/files/1/0619/9479/5171/files/TROPFORTPACKSHOT_180x.jpg?v=1715007737"
+    ],
+    "sizes": ["XS", "S", "M", "L", "XL", "XXL"]
+  },
+  {
+    "id": 21,
+    "title": "SAND EXPRESS HOODIE tern®",
+    "price": 7990,
+    "category": "HOODIES",
+    "image": "https://in.tern.et/cdn/shop/files/expressolive_d22bbc24-06bb-4f0a-b4b2-e9ed9bce4019.jpg?v=1715760093&width=1100",
+    "thumbnails": [
+      "https://cdn.shopify.com/s/files/1/0619/9479/5171/files/hoodie-expres-mockup_180x.jpg?v=1713101301",
+      "https://cdn.shopify.com/s/files/1/0619/9479/5171/files/expressolive_d22bbc24-06bb-4f0a-b4b2-e9ed9bce4019_180x.jpg?v=1715760093"
+    ],
+    "sizes": ["XS", "S", "M", "L", "XL", "XXL"],
+    "badge": "https://in.tern.et/cdn/shop/files/Size_Chart_Hoodies_2.png?v=1700669674&width=360"
+  },
+  {
+    "id": 22,
+    "title": "BLACK SOFTSHELL JACKET 1.02",
+    "price": 11990,
+    "category": "JACKETS",
+    "image": "https://in.tern.et/cdn/shop/files/softshell-black-v2-front.jpg?v=1714583678&width=1100",
+    "thumbnails": [
+      "https://cdn.shopify.com/s/files/1/0619/9479/5171/files/webpackshot_2b702ee2-ba46-4311-9d98-0ba00cfb908c_180x.jpg?v=1709289541",
+      "https://cdn.shopify.com/s/files/1/0619/9479/5171/files/hardshell-fixed_180x.jpg?v=1714344501"
+    ],
+    "sizes": ["XS", "S", "M", "L", "XL", "XXL"],
+    "badge": "https://in.tern.et/cdn/shop/files/Softshell_2.png?v=1714401557&width=360"
+  },
+  {
+    "id": 23,
+    "title": "BLACK SOFTSHELL PANT 1.0 tern®",
+    "price": 8990,
+    "category": "SHORTS & PANTS",
+    "image": "https://in.tern.et/cdn/shop/files/0fa7f2bf7518a030c54be7411b69971b.jpg?v=1714332815&width=1100",
+    "thumbnails": [
+      "https://cdn.shopify.com/s/files/1/0619/9479/5171/files/0fa7f2bf7518a030c54be7411b69971b_180x.jpg?v=1714332815",
+      "https://cdn.shopify.com/s/files/1/0619/9479/5171/files/pant-blue-sfotshell_180x.jpg?v=1714332822"
+    ],
+    "sizes": ["XS", "S", "M", "L", "XL", "XXL"],
+    "badge": "https://in.tern.et/cdn/shop/files/softshell_pants.png?v=1714645915&width=360"
+  },
+  {
+    "id": 24,
+    "title": "BLUE SOFTSHELL JACKET 1.02 tern®",
+    "price": 12990,
+    "category": "JACKETS",
+    "image": "https://in.tern.et/cdn/shop/files/softshell-blue-v2-front-2.jpg?v=1714584513&width=1100",
+    "thumbnails": [
+      "https://cdn.shopify.com/s/files/1/0619/9479/5171/files/webpackshot_2b702ee2-ba46-4311-9d98-0ba00cfb908c_180x.jpg?v=1709289541",
+      "https://cdn.shopify.com/s/files/1/0619/9479/5171/files/hardshell-fixed_180x.jpg?v=1714344501"
+    ],
+    "sizes": ["XS", "S", "M", "L", "XL", "XXL"],
+    "badge": "https://in.tern.et/cdn/shop/files/Softshell_2.png?v=1714401557&width=360"
+  },
+  {
+    "id": 25,
+    "title": "BLUE SOFTSHELL PANT 1.0 tern®",
+    "price": 8990,
+    "category": "SHORTS & PANTS",
+    "image": "https://in.tern.et/cdn/shop/files/pant-blue-sfotshell.jpg?v=1714332822&width=1100",
+    "thumbnails": [
+      "https://cdn.shopify.com/s/files/1/0619/9479/5171/files/0fa7f2bf7518a030c54be7411b69971b_180x.jpg?v=1714332815",
+      "https://cdn.shopify.com/s/files/1/0619/9479/5171/files/pant-blue-sfotshell_180x.jpg?v=1714332822"
+    ],
+    "sizes": ["XS", "S", "M", "L", "XL", "XXL"],
+    "badge": "https://in.tern.et/cdn/shop/files/softshell_pants.png?v=1714645915&width=360"
+  },
+  {
+    "id": 26,
+    "title": "ARCHIVE DENIM JACKET tern®",
+    "price": 13990,
+    "category": "JACKETS",
+    "image": "https://in.tern.et/cdn/shop/files/webpackshot-v3-ajustedcolor.jpg?v=1702381543&width=1100",
+    "thumbnails": [
+      "https://cdn.shopify.com/s/files/1/0619/9479/5171/files/webpackshot_2b702ee2-ba46-4311-9d98-0ba00cfb908c_180x.jpg?v=1709289541",
+      "https://cdn.shopify.com/s/files/1/0619/9479/5171/files/hardshell-fixed_180x.jpg?v=1714344501"
+    ],
+    "sizes": ["XS", "S", "M", "L", "XL", "XXL"],
+    "badge": "https://in.tern.et/cdn/shop/files/Size_Chart.png?v=1702560655&width=360"
+  },
+  {
+    "id": 27,
+    "title": "KNIT WIKI tern®",
+    "price": 8990,
+    "category": "KNITS",
+    "image": "https://in.tern.et/cdn/shop/products/web-1080.jpg?v=1669111587&width=1100",
+    "thumbnails": [
+      "https://cdn.shopify.com/s/files/1/0619/9479/5171/products/1080-wiknit-black_180x.jpg?v=1676985108",
+      "https://cdn.shopify.com/s/files/1/0619/9479/5171/products/web-1080_180x.jpg?v=1669111587"
+    ],
+    "sizes": ["XS", "S", "M", "L", "XL", "XXL"],
+    "badge": "https://in.tern.et/cdn/shop/files/wiki_knit.png?v=1704805026&width=360"
+  },
+  {
+    "id": 28,
+    "title": "CONTRAST SHORT tern®",
+    "price": 4500,
+    "category": "SHORTS & PANTS",
+    "image": "https://in.tern.et/cdn/shop/files/short-1-remake_694ea045-b3a2-4658-9d84-3e016a951ceb.jpg?v=1715188211&width=1100",
+    "thumbnails": [
+      "https://cdn.shopify.com/s/files/1/0619/9479/5171/files/short-5-remake_d4469ce0-8e5b-47d2-bb30-08aae8ab4aef_180x.jpg?v=1715189994",
+      "https://cdn.shopify.com/s/files/1/0619/9479/5171/files/short-2-remake_180x.jpg?v=1715186496",
+      "https://cdn.shopify.com/s/files/1/0619/9479/5171/files/short-1-remake_694ea045-b3a2-4658-9d84-3e016a951ceb_180x.jpg?v=1715188211",
+      "https://cdn.shopify.com/s/files/1/0619/9479/5171/files/short-3-remake_180x.jpg?v=1715187998",
+      "https://cdn.shopify.com/s/files/1/0619/9479/5171/files/short-4-remake_180x.jpg?v=1715189014"
+    ],
+    "sizes": ["XS", "S", "M", "L", "XL", "XXL"],
+    "badge": "https://in.tern.et/cdn/shop/files/eflguh.jpg?v=1688052688&width=360"
+  },
+  {
+    "id": 29,
+    "title": "BLACK KNIT WIKI tern®",
+    "price": 8990,
+    "category": "KNITS",
+    "image": "https://in.tern.et/cdn/shop/products/1080-wiknit-black.jpg?v=1676985108&width=1100",
+    "thumbnails": [
+      "https://cdn.shopify.com/s/files/1/0619/9479/5171/products/1080-wiknit-black_180x.jpg?v=1676985108",
+      "https://cdn.shopify.com/s/files/1/0619/9479/5171/products/web-1080_180x.jpg?v=1669111587"
+    ],
+    "sizes": ["XS", "S", "M", "L", "XL", "XXL"],
+    "badge": "https://in.tern.et/cdn/shop/files/wiki_knit.png?v=1704805026&width=360"
+  },
+  {
+    "id": 30,
+    "title": "FOREST GREEN ZIP-UP HOODIE tern®",
+    "price": 8990,
+    "category": "HOODIES",
+    "image": "https://cdn.shopify.com/s/files/1/0619/9479/5171/files/webpackshot-gonfle-zip-green_5e9c5255-e7dd-48a0-bb70-73c9293bab01.jpg?v=1712325139&width=1100",
+    "thumbnails": [
+      "https://cdn.shopify.com/s/files/1/0619/9479/5171/files/webpackshot-noir_180x.jpg?v=1712435331",
+      "https://cdn.shopify.com/s/files/1/0619/9479/5171/files/webpackshot-marron_180x.jpg?v=1712435353",
+      "https://cdn.shopify.com/s/files/1/0619/9479/5171/files/web-zip-gris_180x.jpg?v=1712565329",
+      "https://cdn.shopify.com/s/files/1/0619/9479/5171/files/webpackshot-eggshell_180x.jpg?v=1712589137",
+      "https://cdn.shopify.com/s/files/1/0619/9479/5171/files/webpackshot-gonfle-zip-green_5e9c5255-e7dd-48a0-bb70-73c9293bab01_180x.jpg?v=1712325139",
+      "https://cdn.shopify.com/s/files/1/0619/9479/5171/files/webpackshot-bleu_180x.jpg?v=1712435439",
+      "https://cdn.shopify.com/s/files/1/0619/9479/5171/files/webpackshot-rose_180x.jpg?v=1712435466",
+      "https://cdn.shopify.com/s/files/1/0619/9479/5171/files/webpackshot-vertviolet_180x.jpg?v=1712435442"
+    ],
+    "sizes": ["XS", "S", "M", "L", "XL", "XXL"],
+    "badge": "https://in.tern.et/cdn/shop/files/Size_Chart_zip_up_2.png?v=1700669673&width=360"
+  },
+  {
+    "id": 31,
+    "title": "BLACK ON BLACK ZIP-UP HOODIE tern®",
+    "price": 8990,
+    "category": "HOODIES",
+    "image": "https://cdn.shopify.com/s/files/1/0619/9479/5171/files/webpackshot-noir.jpg?v=1712435331&width=1100",
+    "thumbnails": [
+      "https://cdn.shopify.com/s/files/1/0619/9479/5171/files/webpackshot-noir_180x.jpg?v=1712435331",
+      "https://cdn.shopify.com/s/files/1/0619/9479/5171/files/webpackshot-marron_180x.jpg?v=1712435353",
+      "https://cdn.shopify.com/s/files/1/0619/9479/5171/files/web-zip-gris_180x.jpg?v=1712565329",
+      "https://cdn.shopify.com/s/files/1/0619/9479/5171/files/webpackshot-eggshell_180x.jpg?v=1712589137",
+      "https://cdn.shopify.com/s/files/1/0619/9479/5171/files/webpackshot-gonfle-zip-green_5e9c5255-e7dd-48a0-bb70-73c9293bab01_180x.jpg?v=1712325139",
+      "https://cdn.shopify.com/s/files/1/0619/9479/5171/files/webpackshot-bleu_180x.jpg?v=1712435439",
+      "https://cdn.shopify.com/s/files/1/0619/9479/5171/files/webpackshot-rose_180x.jpg?v=1712435466",
+      "https://cdn.shopify.com/s/files/1/0619/9479/5171/files/webpackshot-vertviolet_180x.jpg?v=1712435442"
+    ],
+    "sizes": ["XS", "S", "M", "L", "XL", "XXL"],
+    "badge": "https://in.tern.et/cdn/shop/files/Size_Chart_zip_up_2.png?v=1700669673&width=360"
+  },
+  {
+    "id": 32,
+    "title": "EGGSHELL ZIP-UP HOODIE tern®",
+    "price": 8990,
+    "category": "HOODIES",
+    "image": "https://cdn.shopify.com/s/files/1/0619/9479/5171/files/webpackshot-eggshell.jpg?v=1712589137&width=1100",
+    "thumbnails": [
+      "https://cdn.shopify.com/s/files/1/0619/9479/5171/files/webpackshot-noir_180x.jpg?v=1712435331",
+      "https://cdn.shopify.com/s/files/1/0619/9479/5171/files/webpackshot-marron_180x.jpg?v=1712435353",
+      "https://cdn.shopify.com/s/files/1/0619/9479/5171/files/web-zip-gris_180x.jpg?v=1712565329",
+      "https://cdn.shopify.com/s/files/1/0619/9479/5171/files/webpackshot-eggshell_180x.jpg?v=1712589137",
+      "https://cdn.shopify.com/s/files/1/0619/9479/5171/files/webpackshot-gonfle-zip-green_5e9c5255-e7dd-48a0-bb70-73c9293bab01_180x.jpg?v=1712325139",
+      "https://cdn.shopify.com/s/files/1/0619/9479/5171/files/webpackshot-bleu_180x.jpg?v=1712435439",
+      "https://cdn.shopify.com/s/files/1/0619/9479/5171/files/webpackshot-rose_180x.jpg?v=1712435466",
+      "https://cdn.shopify.com/s/files/1/0619/9479/5171/files/webpackshot-vertviolet_180x.jpg?v=1712435442"
+    ],
+    "sizes": ["XS", "S", "M", "L", "XL", "XXL"],
+    "badge": "https://in.tern.et/cdn/shop/files/Size_Chart_zip_up_2.png?v=1700669673&width=360"
+  },
+  {
+    "id": 33,
+    "title": "BLUE VLAN EMBOSSED HOODIE tern®",
+    "price": 7990,
+    "category": "HOODIES",
+    "image": "https://cdn.shopify.com/s/files/1/0619/9479/5171/files/webpackshot-gonfle-blue-vlan.jpg?v=1712321187&width=1100",
+    "thumbnails": [
+      "https://cdn.shopify.com/s/files/1/0619/9479/5171/files/webpackshot-gonfle-blue-vlan_180x.jpg?v=1712321187",
+      "https://cdn.shopify.com/s/files/1/0619/9479/5171/files/webpackshot-gonfle-purple-vlan_180x.jpg?v=1712321767"
+    ],
+    "sizes": ["XS", "S", "M", "L", "XL", "XXL"],
+    "badge": "https://in.tern.et/cdn/shop/files/Size_Chart_zip_up_2.png?v=1700669673&width=360"
+  },
+  {
+    "id": 34,
+    "title": "PURPLE VLAN EMBOSSED HOODIE tern®",
+    "price": 7990,
+    "category": "HOODIES",
+    "image": "https://cdn.shopify.com/s/files/1/0619/9479/5171/files/webpackshot-gonfle-purple-vlan.jpg?v=1712321767&width=1100",
+    "thumbnails": [
+      "https://cdn.shopify.com/s/files/1/0619/9479/5171/files/webpackshot-gonfle-blue-vlan_180x.jpg?v=1712321187",
+      "https://cdn.shopify.com/s/files/1/0619/9479/5171/files/webpackshot-gonfle-purple-vlan_180x.jpg?v=1712321767"
+    ],
+    "sizes": ["XS", "S", "M", "L", "XL", "XXL"],
+    "badge": "https://in.tern.et/cdn/shop/files/Size_Chart_zip_up_2.png?v=1700669673&width=360"
+  },
+  {
+    "id": 35,
+    "title": "BROWN PATCH ZIP-UP HOODIE tern®",
+    "price": 8990,
+    "category": "HOODIES",
+    "image": "https://cdn.shopify.com/s/files/1/0619/9479/5171/files/webpackshot-marron.jpg?v=1712435353&width=1100",
+    "thumbnails": [
+      "https://cdn.shopify.com/s/files/1/0619/9479/5171/files/webpackshot-noir_180x.jpg?v=1712435331",
+      "https://cdn.shopify.com/s/files/1/0619/9479/5171/files/webpackshot-marron_180x.jpg?v=1712435353",
+      "https://cdn.shopify.com/s/files/1/0619/9479/5171/files/web-zip-gris_180x.jpg?v=1712565329",
+      "https://cdn.shopify.com/s/files/1/0619/9479/5171/files/webpackshot-eggshell_180x.jpg?v=1712589137",
+      "https://cdn.shopify.com/s/files/1/0619/9479/5171/files/webpackshot-gonfle-zip-green_5e9c5255-e7dd-48a0-bb70-73c9293bab01_180x.jpg?v=1712325139",
+      "https://cdn.shopify.com/s/files/1/0619/9479/5171/files/webpackshot-bleu_180x.jpg?v=1712435439",
+      "https://cdn.shopify.com/s/files/1/0619/9479/5171/files/webpackshot-rose_180x.jpg?v=1712435466",
+      "https://cdn.shopify.com/s/files/1/0619/9479/5171/files/webpackshot-vertviolet_180x.jpg?v=1712435442"
+    ],
+    "sizes": ["XS", "S", "M", "L", "XL", "XXL"],
+    "badge": "https://in.tern.et/cdn/shop/files/Size_Chart_zip_up_2.png?v=1700669673&width=360"
+  },
+  {
+    "id": 36,
+    "title": "COLLEGE PATCH ZIP-UP HOODIE tern®",
+    "price": 8990,
+    "category": "HOODIES",
+    "image": "https://cdn.shopify.com/s/files/1/0619/9479/5171/files/web-zip-gris.jpg?v=1712565329&width=1100",
+    "thumbnails": [
+      "https://cdn.shopify.com/s/files/1/0619/9479/5171/files/webpackshot-noir_180x.jpg?v=1712435331",
+      "https://cdn.shopify.com/s/files/1/0619/9479/5171/files/webpackshot-marron_180x.jpg?v=1712435353",
+      "https://cdn.shopify.com/s/files/1/0619/9479/5171/files/web-zip-gris_180x.jpg?v=1712565329",
+      "https://cdn.shopify.com/s/files/1/0619/9479/5171/files/webpackshot-eggshell_180x.jpg?v=1712589137",
+      "https://cdn.shopify.com/s/files/1/0619/9479/5171/files/webpackshot-gonfle-zip-green_5e9c5255-e7dd-48a0-bb70-73c9293bab01_180x.jpg?v=1712325139",
+      "https://cdn.shopify.com/s/files/1/0619/9479/5171/files/webpackshot-bleu_180x.jpg?v=1712435439",
+      "https://cdn.shopify.com/s/files/1/0619/9479/5171/files/webpackshot-rose_180x.jpg?v=1712435466",
+      "https://cdn.shopify.com/s/files/1/0619/9479/5171/files/webpackshot-vertviolet_180x.jpg?v=1712435442"
+    ],
+    "sizes": ["XS", "S", "M", "L", "XL", "XXL"],
+    "badge": "https://in.tern.et/cdn/shop/files/Size_Chart_zip_up_2.png?v=1700669673&width=360"
+  },
+  {
+    "id": 37,
+    "title": "SICK PATCH ZIP-UP HOODIE tern®",
+    "price": 8990,
+    "category": "HOODIES",
+    "image": "https://cdn.shopify.com/s/files/1/0619/9479/5171/files/webpackshot-vertviolet.jpg?v=1712435442&width=1100",
+    "thumbnails": [
+      "https://cdn.shopify.com/s/files/1/0619/9479/5171/files/webpackshot-noir_180x.jpg?v=1712435331",
+      "https://cdn.shopify.com/s/files/1/0619/9479/5171/files/webpackshot-marron_180x.jpg?v=1712435353",
+      "https://cdn.shopify.com/s/files/1/0619/9479/5171/files/web-zip-gris_180x.jpg?v=1712565329",
+      "https://cdn.shopify.com/s/files/1/0619/9479/5171/files/webpackshot-eggshell_180x.jpg?v=1712589137",
+      "https://cdn.shopify.com/s/files/1/0619/9479/5171/files/webpackshot-gonfle-zip-green_5e9c5255-e7dd-48a0-bb70-73c9293bab01_180x.jpg?v=1712325139",
+      "https://cdn.shopify.com/s/files/1/0619/9479/5171/files/webpackshot-bleu_180x.jpg?v=1712435439",
+      "https://cdn.shopify.com/s/files/1/0619/9479/5171/files/webpackshot-rose_180x.jpg?v=1712435466",
+      "https://cdn.shopify.com/s/files/1/0619/9479/5171/files/webpackshot-vertviolet_180x.jpg?v=1712435442"
+    ],
+    "sizes": ["XS", "S", "M", "L", "XL", "XXL"],
+    "badge": "https://in.tern.et/cdn/shop/files/Size_Chart_zip_up_2.png?v=1700669673&width=360"
+  },
+  {
+    "id": 38,
+    "title": "CHERRY LIGHT LEAK KNIT tern®",
+    "price": 10990,
+    "category": "KNITS",
+    "image": "https://cdn.shopify.com/s/files/1/0619/9479/5171/files/webpackshot-cherry.jpg?v=1704195828&width=1100",
+    "thumbnails": [
+      "https://cdn.shopify.com/s/files/1/0619/9479/5171/files/web-blue-cc_180x.jpg?v=1690474479",
+      "https://cdn.shopify.com/s/files/1/0619/9479/5171/files/webpackshot-cherry_180x.jpg?v=1704195828",
+      "https://cdn.shopify.com/s/files/1/0619/9479/5171/files/webpackshot-purple-v2_180x.jpg?v=1704271037",
+      "https://cdn.shopify.com/s/files/1/0619/9479/5171/files/webpackshot-topo_180x.jpg?v=1704197810"
+    ],
+    "sizes": ["XS", "S", "M", "L", "XL", "XXL"],
+    "badge": "https://in.tern.et/cdn/shop/files/Knit_Mohair.png?v=1723813536&width=360"
+  },
+  {
+    "id": 39,
+    "title": "OG PATCH ZIP-UP HOODIE tern®",
+    "price": 8990,
+    "category": "HOODIES",
+    "image": "https://cdn.shopify.com/s/files/1/0619/9479/5171/files/webpackshot-bleu.jpg?v=1712435439&width=1100",
+    "thumbnails": [
+      "https://cdn.shopify.com/s/files/1/0619/9479/5171/files/webpackshot-noir_180x.jpg?v=1712435331",
+      "https://cdn.shopify.com/s/files/1/0619/9479/5171/files/webpackshot-marron_180x.jpg?v=1712435353",
+      "https://cdn.shopify.com/s/files/1/0619/9479/5171/files/web-zip-gris_180x.jpg?v=1712565329",
+      "https://cdn.shopify.com/s/files/1/0619/9479/5171/files/webpackshot-eggshell_180x.jpg?v=1712589137",
+      "https://cdn.shopify.com/s/files/1/0619/9479/5171/files/webpackshot-gonfle-zip-green_5e9c5255-e7dd-48a0-bb70-73c9293bab01_180x.jpg?v=1712325139",
+      "https://cdn.shopify.com/s/files/1/0619/9479/5171/files/webpackshot-bleu_180x.jpg?v=1712435439",
+      "https://cdn.shopify.com/s/files/1/0619/9479/5171/files/webpackshot-rose_180x.jpg?v=1712435466",
+      "https://cdn.shopify.com/s/files/1/0619/9479/5171/files/webpackshot-vertviolet_180x.jpg?v=1712435442"
+    ],
+    "sizes": ["XS", "S", "M", "L", "XL", "XXL"],
+    "badge": "https://in.tern.et/cdn/shop/files/Size_Chart_zip_up_2.png?v=1700669673&width=360"
+  },
+  {
+    "id": 40,
+    "title": "PINK CANDY ZIP-UP HOODIE tern®",
+    "price": 7990,
+    "category": "HOODIES",
+    "image": "https://cdn.shopify.com/s/files/1/0619/9479/5171/files/webpackshot-rose.jpg?v=1712435466&width=1100",
+    "thumbnails": [
+      "https://cdn.shopify.com/s/files/1/0619/9479/5171/files/webpackshot-noir_180x.jpg?v=1712435331",
+      "https://cdn.shopify.com/s/files/1/0619/9479/5171/files/webpackshot-marron_180x.jpg?v=1712435353",
+      "https://cdn.shopify.com/s/files/1/0619/9479/5171/files/web-zip-gris_180x.jpg?v=1712565329",
+      "https://cdn.shopify.com/s/files/1/0619/9479/5171/files/webpackshot-eggshell_180x.jpg?v=1712589137",
+      "https://cdn.shopify.com/s/files/1/0619/9479/5171/files/webpackshot-gonfle-zip-green_5e9c5255-e7dd-48a0-bb70-73c9293bab01_180x.jpg?v=1712325139",
+      "https://cdn.shopify.com/s/files/1/0619/9479/5171/files/webpackshot-bleu_180x.jpg?v=1712435439",
+      "https://cdn.shopify.com/s/files/1/0619/9479/5171/files/webpackshot-rose_180x.jpg?v=1712435466",
+      "https://cdn.shopify.com/s/files/1/0619/9479/5171/files/webpackshot-vertviolet_180x.jpg?v=1712435442"
+    ],
+    "sizes": ["XS", "S", "M", "L", "XL", "XXL"],
+    "badge": "https://in.tern.et/cdn/shop/files/Size_Chart_zip_up_2.png?v=1700669673&width=360"
+  },
+  {
+    "id": 41,
+    "title": "CHEVALERESQUE JACKET tern®",
+    "price": 15500,
+    "category": "HOODIES",
+    "image": "https://cdn.shopify.com/s/files/1/0619/9479/5171/files/webpackshot-back.jpg?v=1701274910&width=1100",
+    "thumbnails": [
+      "https://cdn.shopify.com/s/files/1/0619/9479/5171/files/webpackshot-noir_180x.jpg?v=1712435331",
+      "https://cdn.shopify.com/s/files/1/0619/9479/5171/files/webpackshot-marron_180x.jpg?v=1712435353",
+      "https://cdn.shopify.com/s/files/1/0619/9479/5171/files/web-zip-gris_180x.jpg?v=1712565329",
+      "https://cdn.shopify.com/s/files/1/0619/9479/5171/files/webpackshot-eggshell_180x.jpg?v=1712589137",
+      "https://cdn.shopify.com/s/files/1/0619/9479/5171/files/webpackshot-gonfle-zip-green_5e9c5255-e7dd-48a0-bb70-73c9293bab01_180x.jpg?v=1712325139",
+      "https://cdn.shopify.com/s/files/1/0619/9479/5171/files/webpackshot-bleu_180x.jpg?v=1712435439",
+      "https://cdn.shopify.com/s/files/1/0619/9479/5171/files/webpackshot-rose_180x.jpg?v=1712435466",
+      "https://cdn.shopify.com/s/files/1/0619/9479/5171/files/webpackshot-vertviolet_180x.jpg?v=1712435442"
+    ],
+    "sizes": ["XS", "S", "M", "L", "XL", "XXL"],
+    "badge": "https://in.tern.et/cdn/shop/files/Size_Chart_zip_up_2.png?v=1700669673&width=360"
+  },
+  {
+    "id": 42,
+    "title": "TOPOGRAPHY LIGHT LEAK KNIT tern®",
+    "price": 10990,
+    "category": "KNITS",
+    "image": "https://cdn.shopify.com/s/files/1/0619/9479/5171/files/webpackshot-topo.jpg?v=1704197810&width=1100",
+    "thumbnails": [
+      "https://cdn.shopify.com/s/files/1/0619/9479/5171/files/web-blue-cc_180x.jpg?v=1690474479",
+      "https://cdn.shopify.com/s/files/1/0619/9479/5171/files/webpackshot-cherry_180x.jpg?v=1704195828",
+      "https://cdn.shopify.com/s/files/1/0619/9479/5171/files/webpackshot-purple-v2_180x.jpg?v=1704271037",
+      "https://cdn.shopify.com/s/files/1/0619/9479/5171/files/webpackshot-topo_180x.jpg?v=1704197810"
+    ],
+    "sizes": ["XS", "S", "M", "L", "XL", "XXL"],
+    "badge": "https://in.tern.et/cdn/shop/files/Knit_Mohair.png?v=1723813536&width=360"
+  },
+  {
+    "id": 43,
+    "title": "GREY LIGHT LEAK KNIT tern®",
+    "price": 10990,
+    "category": "KNITS",
+    "image": "https://cdn.shopify.com/s/files/1/0619/9479/5171/files/greymohair.jpg?v=1705662146&width=1100",
+    "thumbnails": [
+      "https://cdn.shopify.com/s/files/1/0619/9479/5171/files/web-blue-cc_180x.jpg?v=1690474479",
+      "https://cdn.shopify.com/s/files/1/0619/9479/5171/files/webpackshot-cherry_180x.jpg?v=1704195828",
+      "https://cdn.shopify.com/s/files/1/0619/9479/5171/files/webpackshot-purple-v2_180x.jpg?v=1704271037",
+      "https://cdn.shopify.com/s/files/1/0619/9479/5171/files/webpackshot-topo_180x.jpg?v=1704197810"
+    ],
+    "sizes": ["XS", "S", "M", "L", "XL", "XXL"],
+    "badge": "https://in.tern.et/cdn/shop/files/Knit_Mohair.png?v=1723813536&width=360"
+  },
+  {
+    "id": 44,
+    "title": "BLUE LIGHT LEAK BEANIE tern®",
+    "price": 3990,
+    "category": "HEADWEAR",
+    "image": "https://cdn.shopify.com/s/files/1/0619/9479/5171/files/front-blue-lq.jpg?v=1701793784&width=1100",
+    "thumbnails": [
+      "https://cdn.shopify.com/s/files/1/0619/9479/5171/files/back-blue-lq_180x.jpg?v=1701793784",
+      "https://cdn.shopify.com/s/files/1/0619/9479/5171/files/beanie-purple-1_180x.jpg?v=1705674656"
+    ],
+    "sizes": ["XS", "S", "M", "L", "XL", "XXL"]
+  },
+  {
+    "id": 45,
+    "title": "GREY LIGHT LEAK BEANIE tern®",
+    "price": 3990,
+    "category": "HEADWEAR",
+    "image": "https://cdn.shopify.com/s/files/1/0619/9479/5171/files/beanie-grey-1.jpg?v=1705668794&width=1100",
+    "thumbnails": [
+      "https://cdn.shopify.com/s/files/1/0619/9479/5171/files/back-blue-lq_180x.jpg?v=1701793784",
+      "https://cdn.shopify.com/s/files/1/0619/9479/5171/files/beanie-purple-1_180x.jpg?v=1705674656"
+    ],
+    "sizes": ["XS", "S", "M", "L", "XL", "XXL"]
+  },
+  {
+    "id": 46,
+    "title": "PURPLE LIGHT LEAK BEANIE tern®",
+    "price": 3990,
+    "category": "HEADWEAR",
+    "image": "https://cdn.shopify.com/s/files/1/0619/9479/5171/files/beanie-purple-2.jpg?v=1705674656&width=1100",
+    "thumbnails": [
+      "https://cdn.shopify.com/s/files/1/0619/9479/5171/files/back-blue-lq_180x.jpg?v=1701793784",
+      "https://cdn.shopify.com/s/files/1/0619/9479/5171/files/beanie-purple-1_180x.jpg?v=1705674656"
+    ],
+    "sizes": ["XS", "S", "M", "L", "XL", "XXL"]
+  },
+  {
+    "id": 47,
+    "title": "OG TECH TEE tern®",
+    "price": 4990,
+    "category": "T-SHIRT",
+    "image": "https://cdn.shopify.com/s/files/1/0619/9479/5171/files/web-tern-og-grey.jpg?v=1688381698&width=1100",
+    "thumbnails": [
+      "https://cdn.shopify.com/s/files/1/0619/9479/5171/files/web-tripleblack-3_180x.jpg?v=1690817274",
+      "https://cdn.shopify.com/s/files/1/0619/9479/5171/files/web-tern-onyx_180x.jpg?v=1699629570",
+      "https://cdn.shopify.com/s/files/1/0619/9479/5171/files/webpackshot-triplewhite_180x.jpg?v=1712658201",
+      "https://cdn.shopify.com/s/files/1/0619/9479/5171/files/bluecollegeweb_180x.jpg?v=1694534337",
+      "https://cdn.shopify.com/s/files/1/0619/9479/5171/files/collegeredweb_180x.jpg?v=1694534053",
+      "https://cdn.shopify.com/s/files/1/0619/9479/5171/files/web-tern-tech-green_180x.jpg?v=1688039459",
+      "https://cdn.shopify.com/s/files/1/0619/9479/5171/files/triplebluetechtee_180x.jpg?v=1712665050"
+    ],
+    "sizes": ["XS", "S", "M", "L", "XL", "XXL"],
+    "badge": "https://in.tern.et/cdn/shop/files/Tech_Tee.png?v=1704799891&width=360"
+  },
+  {
+    "id": 48,
+    "title": "ENAMEL LOGO RING tern®",
+    "price": 3990,
+    "category": "HEADWEAR",
+    "image": "https://cdn.shopify.com/s/files/1/0619/9479/5171/files/webpackshot-2.jpg?v=1700736509&width=1100",
+    "sizes": ["6 - 51.8mm", "10 - 62.1mm"]
+  },
+  {
+    "id": 49,
+    "title": "MONTAGNE TECH TEE tern®",
+    "price": 4990,
+    "category": "T-SHIRT",
+    "image": "https://cdn.shopify.com/s/files/1/0619/9479/5171/files/web-montagnetee.jpg?v=1696780295&width=1100",
+    "thumbnails": [
+      "https://cdn.shopify.com/s/files/1/0619/9479/5171/files/web-tripleblack-3_180x.jpg?v=1690817274",
+      "https://cdn.shopify.com/s/files/1/0619/9479/5171/files/web-tern-onyx_180x.jpg?v=1699629570",
+      "https://cdn.shopify.com/s/files/1/0619/9479/5171/files/webpackshot-triplewhite_180x.jpg?v=1712658201",
+      "https://cdn.shopify.com/s/files/1/0619/9479/5171/files/bluecollegeweb_180x.jpg?v=1694534337",
+      "https://cdn.shopify.com/s/files/1/0619/9479/5171/files/collegeredweb_180x.jpg?v=1694534053",
+      "https://cdn.shopify.com/s/files/1/0619/9479/5171/files/web-tern-tech-green_180x.jpg?v=1688039459",
+      "https://cdn.shopify.com/s/files/1/0619/9479/5171/files/triplebluetechtee_180x.jpg?v=1712665050"
+    ],
+    "sizes": ["XS", "S", "M", "L", "XL", "XXL"],
+    "badge": "https://in.tern.et/cdn/shop/files/Tech_Tee.png?v=1704799891&width=360"
+  },
+  {
+    "id": 50,
+    "title": "CAFÉ TECH TEE tern®",
+    "price": 4990,
+    "category": "T-SHIRT",
+    "image": "https://cdn.shopify.com/s/files/1/0619/9479/5171/files/web-cafe.jpg?v=1696780373&width=1100",
+    "thumbnails": [
+      "https://cdn.shopify.com/s/files/1/0619/9479/5171/files/web-tripleblack-3_180x.jpg?v=1690817274",
+      "https://cdn.shopify.com/s/files/1/0619/9479/5171/files/web-tern-onyx_180x.jpg?v=1699629570",
+      "https://cdn.shopify.com/s/files/1/0619/9479/5171/files/webpackshot-triplewhite_180x.jpg?v=1712658201",
+      "https://cdn.shopify.com/s/files/1/0619/9479/5171/files/bluecollegeweb_180x.jpg?v=1694534337",
+      "https://cdn.shopify.com/s/files/1/0619/9479/5171/files/collegeredweb_180x.jpg?v=1694534053",
+      "https://cdn.shopify.com/s/files/1/0619/9479/5171/files/web-tern-tech-green_180x.jpg?v=1688039459",
+      "https://cdn.shopify.com/s/files/1/0619/9479/5171/files/triplebluetechtee_180x.jpg?v=1712665050"
+    ],
+    "sizes": ["XS", "S", "M", "L", "XL", "XXL"],
+    "badge": "https://in.tern.et/cdn/shop/files/Tech_Tee.png?v=1704799891&width=360"
+  },
+  {
+    "id": 51,
+    "title": "WELCOME KNIT tern®",
+    "price": 8990,
+    "category": "KNITS",
+    "image": "https://in.tern.et/cdn/shop/files/web-welcome-v2.jpg?v=1695374358&width=1100",
+    "thumbnails": [
+      "https://cdn.shopify.com/s/files/1/0619/9479/5171/files/web-blue-cc_180x.jpg?v=1690474479",
+      "https://cdn.shopify.com/s/files/1/0619/9479/5171/files/webpackshot-cherry_180x.jpg?v=1704195828",
+      "https://cdn.shopify.com/s/files/1/0619/9479/5171/files/webpackshot-purple-v2_180x.jpg?v=1704271037",
+      "https://cdn.shopify.com/s/files/1/0619/9479/5171/files/webpackshot-topo_180x.jpg?v=1704197810"
+    ],
+    "sizes": ["XS", "S", "M", "L", "XL", "XXL"],
+    "badge": "https://in.tern.et/cdn/shop/files/Knit_Mohair.png?v=1723813536&width=360"
+  },
+  {
+    "id": 52,
+    "title": "CARAMEL TECH TEE tern®",
+    "price": 4990,
+    "category": "T-SHIRT",
+    "image": "https://cdn.shopify.com/s/files/1/0619/9479/5171/files/web-cara.jpg?v=1696783291&width=1100",
+    "thumbnails": [
+      "https://cdn.shopify.com/s/files/1/0619/9479/5171/files/web-tripleblack-3_180x.jpg?v=1690817274",
+      "https://cdn.shopify.com/s/files/1/0619/9479/5171/files/web-tern-onyx_180x.jpg?v=1699629570",
+      "https://cdn.shopify.com/s/files/1/0619/9479/5171/files/webpackshot-triplewhite_180x.jpg?v=1712658201",
+      "https://cdn.shopify.com/s/files/1/0619/9479/5171/files/bluecollegeweb_180x.jpg?v=1694534337",
+      "https://cdn.shopify.com/s/files/1/0619/9479/5171/files/collegeredweb_180x.jpg?v=1694534053",
+      "https://cdn.shopify.com/s/files/1/0619/9479/5171/files/web-tern-tech-green_180x.jpg?v=1688039459",
+      "https://cdn.shopify.com/s/files/1/0619/9479/5171/files/triplebluetechtee_180x.jpg?v=1712665050"
+    ],
+    "sizes": ["XS", "S", "M", "L", "XL", "XXL"],
+    "badge": "https://in.tern.et/cdn/shop/files/Tech_Tee.png?v=1704799891&width=360"
+  },
+  {
+    "id": 53,
+    "title": "GREEN LIGHT LEAK KNIT tern®",
+    "price": 10990,
+    "category": "KNITS",
+    "image": "https://cdn.shopify.com/s/files/1/0619/9479/5171/files/web-green-cc.jpg?v=1690474482&width=1100",
+    "thumbnails": [
+      "https://cdn.shopify.com/s/files/1/0619/9479/5171/files/web-blue-cc_180x.jpg?v=1690474479",
+      "https://cdn.shopify.com/s/files/1/0619/9479/5171/files/webpackshot-cherry_180x.jpg?v=1704195828",
+      "https://cdn.shopify.com/s/files/1/0619/9479/5171/files/webpackshot-purple-v2_180x.jpg?v=1704271037",
+      "https://cdn.shopify.com/s/files/1/0619/9479/5171/files/webpackshot-topo_180x.jpg?v=1704197810"
+    ],
+    "sizes": ["XS", "S", "M", "L", "XL", "XXL"],
+    "badge": "https://in.tern.et/cdn/shop/files/Knit_Mohair.png?v=1723813536&width=360"
+  },
+  {
+    "id": 54,
+    "title": "GREEN LIGHT LEAK BEANIE tern®",
+    "price": 3990,
+    "category": "HEADWEAR",
+    "image": "https://cdn.shopify.com/s/files/1/0619/9479/5171/files/back-green-lq.jpg?v=1701858084&width=1100",
+    "thumbnails": [
+      "https://cdn.shopify.com/s/files/1/0619/9479/5171/files/back-blue-lq_180x.jpg?v=1701793784",
+      "https://cdn.shopify.com/s/files/1/0619/9479/5171/files/beanie-purple-1_180x.jpg?v=1705674656"
+    ],
+    "sizes": ["XS", "S", "M", "L", "XL", "XXL"]
+  },
+  {
+    "id": 55,
+    "title": "OG BLUE BEANIE tern®",
+    "price": 2990,
+    "category": "HEADWEAR",
+    "image": "https://cdn.shopify.com/s/files/1/0619/9479/5171/products/mockup-beanies-back-blue.jpg?v=1673876250&width=1100",
+    "thumbnails": [
+      "https://cdn.shopify.com/s/files/1/0619/9479/5171/files/back-blue-lq_180x.jpg?v=1701793784",
+      "https://cdn.shopify.com/s/files/1/0619/9479/5171/files/beanie-purple-1_180x.jpg?v=1705674656"
+    ],
+    "sizes": ["XS", "S", "M", "L", "XL", "XXL"]
+  },
+  {
+    "id": 56,
+    "title": "EMERALD BEANIE tern®",
+    "price": 2990,
+    "category": "HEADWEAR",
+    "image": "https://cdn.shopify.com/s/files/1/0619/9479/5171/products/mockup-beanies-back-green.jpg?v=1673876216&width=1100",
+    "thumbnails": [
+      "https://cdn.shopify.com/s/files/1/0619/9479/5171/files/back-blue-lq_180x.jpg?v=1701793784",
+      "https://cdn.shopify.com/s/files/1/0619/9479/5171/files/beanie-purple-1_180x.jpg?v=1705674656"
+    ],
+    "sizes": ["XS", "S", "M", "L", "XL", "XXL"]
+  },
+  {
+    "id": 57,
+    "title": "BROWN BEANIE tern®",
+    "price": 2990,
+    "category": "HEADWEAR",
+    "image": "https://cdn.shopify.com/s/files/1/0619/9479/5171/products/mockup-beanies-back-brown.jpg?v=1673876229&width=1100",
+    "thumbnails": [
+      "https://cdn.shopify.com/s/files/1/0619/9479/5171/files/back-blue-lq_180x.jpg?v=1701793784",
+      "https://cdn.shopify.com/s/files/1/0619/9479/5171/files/beanie-purple-1_180x.jpg?v=1705674656"
+    ],
+    "sizes": ["XS", "S", "M", "L", "XL", "XXL"]
+  },
+  {
+    "id": 58,
+    "title": "BLACK LOGO TEE tern®",
+    "price": 3990,
+    "category": "T-SHIRT",
+    "image": "https://cdn.shopify.com/s/files/1/0619/9479/5171/files/web-png-logo-black.jpg?v=1687442411&width=1100",
+    "thumbnails": [
+      "https://cdn.shopify.com/s/files/1/0619/9479/5171/files/web-tripleblack-3_180x.jpg?v=1690817274",
+      "https://cdn.shopify.com/s/files/1/0619/9479/5171/files/web-tern-onyx_180x.jpg?v=1699629570",
+      "https://cdn.shopify.com/s/files/1/0619/9479/5171/files/webpackshot-triplewhite_180x.jpg?v=1712658201",
+      "https://cdn.shopify.com/s/files/1/0619/9479/5171/files/bluecollegeweb_180x.jpg?v=1694534337",
+      "https://cdn.shopify.com/s/files/1/0619/9479/5171/files/collegeredweb_180x.jpg?v=1694534053",
+      "https://cdn.shopify.com/s/files/1/0619/9479/5171/files/web-tern-tech-green_180x.jpg?v=1688039459",
+      "https://cdn.shopify.com/s/files/1/0619/9479/5171/files/triplebluetechtee_180x.jpg?v=1712665050"
+    ],
+    "sizes": ["XS", "S", "M", "L", "XL", "XXL"],
+    "badge": "https://in.tern.et/cdn/shop/files/Tech_Tee.png?v=1704799891&width=360"
+  },
+  {
+    "id": 59,
+    "title": "BLUE LOGO TEE tern®",
+    "price": 3990,
+    "category": "T-SHIRT",
+    "image": "https://cdn.shopify.com/s/files/1/0619/9479/5171/files/web-png-logo-blue.jpg?v=1687442416&width=1100",
+    "thumbnails": [
+      "https://cdn.shopify.com/s/files/1/0619/9479/5171/files/web-tripleblack-3_180x.jpg?v=1690817274",
+      "https://cdn.shopify.com/s/files/1/0619/9479/5171/files/web-tern-onyx_180x.jpg?v=1699629570",
+      "https://cdn.shopify.com/s/files/1/0619/9479/5171/files/webpackshot-triplewhite_180x.jpg?v=1712658201",
+      "https://cdn.shopify.com/s/files/1/0619/9479/5171/files/bluecollegeweb_180x.jpg?v=1694534337",
+      "https://cdn.shopify.com/s/files/1/0619/9479/5171/files/collegeredweb_180x.jpg?v=1694534053",
+      "https://cdn.shopify.com/s/files/1/0619/9479/5171/files/web-tern-tech-green_180x.jpg?v=1688039459",
+      "https://cdn.shopify.com/s/files/1/0619/9479/5171/files/triplebluetechtee_180x.jpg?v=1712665050"
+    ],
+    "sizes": ["XS", "S", "M", "L", "XL", "XXL"],
+    "badge": "https://in.tern.et/cdn/shop/files/Tech_Tee.png?v=1704799891&width=360"
+  }
+]

@@ -1,0 +1,16 @@
+@import url('https://fonts.cdnfonts.com/css/sf-mono?styles=36554,36555,36550,36551,36552,36553,36556,36557,36546,36547,36548,36549');
+
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+/* Custom CSS */
+.nav-link::after {
+  @apply absolute left-0 bottom-0 w-0 h-[2px] bg-black transition-all duration-500 ease-in-out;
+  content: '';
+}
+
+.nav-link:hover::after {
+  @apply w-full;
+}
+
