@@ -2,7 +2,7 @@ function CartIcon() {
   return (
     <button>
       <svg
-        class="m-svg-icon--medium"
+        className="m-svg-icon--medium"
         fill="currentColor"
         stroke="currentColor"
         xmlns="http://www.w3.org/2000/svg"

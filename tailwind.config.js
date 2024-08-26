@@ -23,4 +23,9 @@ export default {
     },
   },
   plugins: [],
+  variants: {
+    extend: {
+      content: ['before', 'after']
+    }
+  }
 };

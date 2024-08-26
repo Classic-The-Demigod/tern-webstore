@@ -2,9 +2,9 @@ import { Link } from "react-router-dom";
 
 function ProfileIcon() {
   return (
-    <Link>
+    <Link className="hidden md:block">
       <svg
-        class="m-svg-icon--medium"
+        className="m-svg-icon--medium"
         fill="currentColor"
         stroke="currentColor"
         xmlns="http://www.w3.org/2000/svg"
