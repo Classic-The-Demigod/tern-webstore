@@ -1,11 +1,25 @@
-import React from "react";
+
+import { Link, useNavigate } from "react-router-dom";
 
 function ProductCard({ singleProductItem }) {
+  const navigate = useNavigate()
+  function handleNavigateToProductDetailsPage(getCurrentProductId) {
+
+  navigate(`/product-details/${getCurrentProductId}`);
+}
+
   return (
     <div>
-      <div className="relative">
+      <button
+        onClick={() => {
+          handleNavigateToProductDetailsPage(singleProductItem?.id);
+        }}
+      >
+
+
+      <div className="relative overflow-hidden group cursor-pointer">
         <img
-          className="w-[300px]"
+          className="w-[300px] h-auto transition duration-300 ease-in group-hover:scale-110"
           src={singleProductItem?.image}
           alt={singleProductItem.title}
         />
@@ -15,6 +29,9 @@ function ProductCard({ singleProductItem }) {
           </div>
         ) : null}
       </div>
+
+      </button>
+
       <div className="text-[13px] font-primary mt-4">
         <h1>{singleProductItem?.title}</h1>
         <p className="mt-1">${singleProductItem?.price}</p>

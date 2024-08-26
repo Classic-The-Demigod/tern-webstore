@@ -19,7 +19,7 @@ function Home() {
       </main>
       <div className="my-6 flex justify-center rounded-md border border-gray-400 w-[80%] md:w-[25%] mx-auto">
         <input
-          className="  pr-4 py-3 outline-none border-r-gray-400 border-r"
+          className="py-3 outline-none border-r-gray-400 border-r"
           placeholder="Enter your mail"
         />
         <button className=" px-4 py-3 text-gray-400">Subscribe</button>

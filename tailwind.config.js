@@ -20,12 +20,22 @@ export default {
       animation: {
         rainbow: 'rainbow 5s linear infinite',
       },
+
+      boxShadow: {
+        'right-custom': '15px 0 5px -5px rgba(0,0,0,0.3)'
+      },
+      scale:{
+        '110': "1.10",
+        '115': "1.15",
+        "120": "1.20"
+      }
     },
   },
   plugins: [],
   variants: {
     extend: {
-      content: ['before', 'after']
+      content: ['before', 'after'],
+      scale: ['hover', 'group-hover']
     }
   }
 };

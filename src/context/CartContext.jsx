@@ -5,6 +5,7 @@ export const ShoppingCartContext = createContext(null);
 function ShoppingCartProvider({children}) {
   const [loading, setLoading] = useState(false);
   const [productList, setProductList] = useState([]);
+  const [productDetails, setProductDetails] = useState([])
 
   async function fetchProducts() {
     try {
@@ -29,7 +30,7 @@ function ShoppingCartProvider({children}) {
   }, []);
 
   return (
-    <ShoppingCartContext.Provider value={{ loading, productList }}>
+    <ShoppingCartContext.Provider value={{ loading, productList, productDetails, setProductDetails }}>
       {children}
     </ShoppingCartContext.Provider>
   );
