@@ -13,7 +13,7 @@ function ShoppingCartProvider({children}) {
       const apiUrl = "http://localhost:8000/products";
       const apiResponse = await fetch(apiUrl);
       const result = await apiResponse.json();
- 
+
 
       if (result && result.length > 0) {
         setProductList(result)
@@ -24,7 +24,7 @@ function ShoppingCartProvider({children}) {
     }
   }
 
-       console.log(productList);
+
   useEffect(() => {
     fetchProducts();
   }, []);
