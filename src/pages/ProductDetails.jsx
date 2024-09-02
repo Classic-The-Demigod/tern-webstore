@@ -6,8 +6,10 @@ import DetailsCard from "../components/DetailsCard";
 
 function ProductDetails() {
   const { id } = useParams();
-  const { productDetails, setProductDetails, setLoading, loading } =
+  const { productDetails, setProductDetails, loading } =
     useContext(ShoppingCartContext);
+
+
 
   async function fetchProductDetails() {
     try {
@@ -17,7 +19,7 @@ function ProductDetails() {
 
       if (result) {
         setProductDetails(result);
-        setLoading(false);
+
       }
     } catch (error) {
       console.log(error);
@@ -27,6 +29,9 @@ function ProductDetails() {
   useEffect(() => {
     fetchProductDetails();
   }, []);
+
+
+  
 
   return (
     <section className="w-[90%] mx-auto my-[4rem]">
