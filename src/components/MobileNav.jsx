@@ -1,7 +1,18 @@
 import React from "react";
-import { Link } from "react-router-dom";
+import { Link, useNavigate } from "react-router-dom";
 
-function MobileNav({ isOpen }) {
+function MobileNav({ isOpen, setIsOpen }) {
+  const navigate = useNavigate();
+
+  function handleNavigatetoLogin() {
+    setIsOpen(false)
+    navigate("/login")
+  }
+
+  function handleNavigatetoRegister() {
+    setIsOpen(false)
+    navigate("/register")
+  }
   return (
     <div
       className={`w-[90%] left-0 md:hidden  h-[1000vh] mx-auto absolute z-10 transform transition-transform duration-500 ease-in-out  bg-white shadow-right-custom  ${
@@ -17,10 +28,10 @@ function MobileNav({ isOpen }) {
         <Link className="font-primary">JACKETS</Link>
         <Link className="font-primary">HEADWEAR</Link>
         <Link className="font-primary">NEED HELP?</Link>
-        <button className="bg-black self-start font-primary text-white w-[90%] py-3 rounded-xl">
+        <button onClick={handleNavigatetoLogin} className="bg-black self-start font-primary text-white w-[90%] py-3 rounded-xl">
           Log In
         </button>
-        <button className="bg-white self-start font-primary text-black w-[90%] py-3 rounded-xl border-2 border-black">
+        <button onClick={handleNavigatetoRegister} className="bg-white self-start font-primary text-black w-[90%] py-3 rounded-xl border-2 border-black">
           Register
         </button>
       </ul>

@@ -1,9 +1,13 @@
-import React from "react";
+import React, { useContext, useEffect, useState } from "react";
 import ProductList from "../components/ProductList";
 import Banner from "../assets/banner.jpg";
 import Demo from "../assets/demo.webp";
+import supabase from "../config/supabase";
+import { ShoppingCartContext } from "../context/CartContext";
 
 function Home() {
+  
+
   return (
     <section className="overflow-hidden">
       <div className="w-[90%] md:w-[80%] mx-auto">
@@ -48,7 +52,9 @@ function Home() {
               unique and includes an id and a key, it will be useful in the
               future, keep it carefully.
             </p>
-            <button className="text-white font-primary bg-gray-800 self-start border-none px-4 py-3 rounded-md">➤ get a card</button>
+            <button className="text-white font-primary bg-gray-800 self-start border-none px-4 py-3 rounded-md">
+              ➤ get a card
+            </button>
           </div>
         </div>
       </section>

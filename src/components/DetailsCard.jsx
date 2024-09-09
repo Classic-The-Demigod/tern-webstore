@@ -6,15 +6,15 @@ import { ShoppingCartContext } from "../context/CartContext";
 
 function DetailsCard({ productDetails }) {
   const [accordion, setAccordion] = useState(false);
-    const { productList } = useContext(ShoppingCartContext);
+  // const { productList } = useContext(ShoppingCartContext);
   // const [category, setCategory] = useState(productDetails?.category);
-  
+
   // console.log(productDetails)
 
-      const filteredProducts = productList.filter(
-        (product) => product?.category === productDetails?.category
-      );
-      console.log(filteredProducts);
+  // const filteredProducts = productList.filter(
+  //   (product) => product?.category === productDetails?.category
+  // );
+  // console.log(filteredProducts);
 
   function handleAccordion() {
     setAccordion(!accordion);
@@ -59,20 +59,23 @@ function DetailsCard({ productDetails }) {
             {productDetails?.thumbnails
               ? productDetails.thumbnails.map((thumbnail) => (
                   <button
-                    key={thumbnail}
+                    key={Math.random()}
                     className="border  hover:border-black transition:border duration-300 ease-in border-gray-200 rounded"
                   >
                     <img
                       className="w-[60px] rounded-md"
                       src={thumbnail}
-                      alt={productDetails.title}
+                      alt={Math.random()}
                     />
                   </button>
                 ))
               : null}
           </div>
 
-          <button className="border-black  text-black border py-3 px-8 rounded-lg hover:bg-black hover:text-white transition:all duration-300 ease-in">
+          <button
+            className="border-black  text-black border py-3 px-8 rounded-lg hover:bg-black hover:text-white transition:all duration-300 ease-in"
+            onClick={() => handleAddToCart(productDetails)}
+          >
             Add To Cart
           </button>
           <button className=" text-white border py-3 px-8 rounded-lg  bg-gray-800 hover:bg-black transition:all duration-300 ease-in">
@@ -166,7 +169,7 @@ function DetailsCard({ productDetails }) {
         <div className="mt-[2rem] space-y-4">
           <h1 className="font-primary text-3xl">You Might Also Like</h1>
 
-          <div className="grid grid-cols-2 md:grid-cols-4 gap-4">
+          {/* <div className="grid grid-cols-2 md:grid-cols-4 gap-4">
             {filteredProducts && filteredProducts.length > 0 ? (
               filteredProducts.map((singleProductItem) => (
                 <ProductCard
@@ -177,7 +180,7 @@ function DetailsCard({ productDetails }) {
             ) : (
               <h3 className="font-primary text-base">No Products Found :(</h3>
             )}
-          </div>
+          </div> */}
         </div>
       </main>
     </>

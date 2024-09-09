@@ -2,7 +2,7 @@ import { Link } from "react-router-dom";
 
 function ProfileIcon() {
   return (
-    <Link className="hidden md:block">
+    <Link to={"/login"} className="hidden md:block">
       <svg
         className="m-svg-icon--medium"
         fill="currentColor"

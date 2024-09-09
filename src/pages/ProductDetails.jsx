@@ -1,37 +1,30 @@
 import React, { useContext, useEffect } from "react";
 import { useParams } from "react-router-dom";
 import { ShoppingCartContext } from "../context/CartContext";
-import CartIcon from "../components/CartIcon";
 import DetailsCard from "../components/DetailsCard";
+import supabase from "../config/supabase";
 
 function ProductDetails() {
   const { id } = useParams();
-  const { productDetails, setProductDetails, loading } =
-    useContext(ShoppingCartContext);
-
-
-
-  async function fetchProductDetails() {
-    try {
-      const apiResponse = await fetch(`http://localhost:8000/products/${id}`);
-
-      const result = await apiResponse.json();
-
-      if (result) {
-        setProductDetails(result);
-
-      }
-    } catch (error) {
-      console.log(error);
-    }
-  }
+  const { productDetails, setProductDetails, loading } = useContext(ShoppingCartContext);
 
   useEffect(() => {
     fetchProductDetails();
   }, []);
 
-
-  
+  async function fetchProductDetails() {
+    try {
+      const { data, error } = await supabase
+        .from("products")
+        .select()
+        .eq("id", id)
+      .single()
+      if (error) throw error;
+      setProductDetails(data);
+    } catch (error) {
+      console.log(error);
+    }
+  }
 
   return (
     <section className="w-[90%] mx-auto my-[4rem]">
@@ -41,7 +34,11 @@ function ProductDetails() {
         </h1>
       ) : null}
 
-      <DetailsCard productDetails={productDetails} />
+      <DetailsCard
+        productDetails={productDetails}
+        // handleAddToCart={handleAddToCart}
+
+      />
     </section>
   );
 }

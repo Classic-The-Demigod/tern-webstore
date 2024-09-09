@@ -1,10 +1,12 @@
 import { Link } from "react-router-dom";
 import ProfileIcon from "./ProfileIcon";
 import CartIcon from "./CartIcon";
-import { useEffect, useState } from "react";
+import { useContext, useEffect, useState } from "react";
+import { ShoppingCartContext } from "../context/CartContext";
 
-function Header({ isOpen, setIsOpen }) {
+function Header({ isOpen, setIsOpen, setIsModalOpen, isModalOpen }) {
   const [isScrolled, setIsScrolled] = useState(false);
+  // const { cartItems } = useContext(ShoppingCartContext);
 
   useEffect(() => {
     const handleScroll = () => {
@@ -52,12 +54,12 @@ function Header({ isOpen, setIsOpen }) {
           </div>
         </button>
         <Link to={"/"}>
-          <h1 className="animate-rainbow font-primary font-bold text-[12px]">
+          <h1 className="animate-rainbow font-primary font-bold text-[12px] md:text-start text-center">
             tern®
           </h1>
         </Link>
 
-        <div className="flex justify-center space-x-[2rem] text-[13px] font-light">
+        <div className="flex justify-center space-x-[2rem] self-center text-[13px] font-light">
           <ul className="space-x-8 md:block hidden">
             <Link className="nav-link font-primary relative pb-2">
               SHOP ALL
@@ -81,7 +83,18 @@ function Header({ isOpen, setIsOpen }) {
 
           <div className="flex gap-4 items-center">
             <ProfileIcon />
-            <CartIcon />
+            <div className="flex row flex-row-reverse relative">
+              {/* {cartItems.length > 0 ? (
+                <div className="bg-red-600 w-5 h-5  rounded-full items-start text-center pb-1 text-white font-primary font-bold">
+                  {cartItems.length}
+                </div>
+              ) : null} */}
+
+              <CartIcon
+                setIsModalOpen={setIsModalOpen}
+                isModalOpen={isModalOpen}
+              />
+            </div>
           </div>
         </div>
       </div>
