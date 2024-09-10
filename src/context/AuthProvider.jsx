@@ -25,11 +25,12 @@ const AuthProvider = ({ children }) => {
         data.subscription.unsubscribe();
       };
     }, []);
-
-    return (
-      <AuthContext.Provider value={{ user, login }}>{children}</AuthContext.Provider>
-    );
   };
-}
+  return (
+    <AuthContext.Provider value={{ user, login }}>
+      {children}
+    </AuthContext.Provider>
+  );
+};
 
 export default AuthProvider;

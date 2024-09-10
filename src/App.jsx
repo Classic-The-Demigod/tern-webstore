@@ -9,6 +9,7 @@ import Page404 from "./pages/404Page";
 import CartModal from "./components/CartModal";
 import Login from "./pages/Login";
 import Register from "./pages/Register";
+import AuthRoute from "./components/AuthRoute";
 
 function App() {
   const [isOpen, setIsOpen] = useState(false);
@@ -33,6 +34,11 @@ function App() {
         ) : null}
 
         <Routes>
+          {/* <Route element={<AuthRoute />}>
+
+          <Route path="/" element={<Home />} />
+
+          </Route> */}
           <Route path="/" element={<Home />} />
           <Route path="/product-details/:id" element={<ProductDetails />} />
           <Route path="/login" element={<Login />} />
