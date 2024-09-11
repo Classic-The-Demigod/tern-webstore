@@ -3,10 +3,13 @@ import ProfileIcon from "./ProfileIcon";
 import CartIcon from "./CartIcon";
 import { useContext, useEffect, useState } from "react";
 import { ShoppingCartContext } from "../context/CartContext";
+import { useAuth } from "../context/AuthProvider";
+import LogOut from "./LogOut";
 
 function Header({ isOpen, setIsOpen, setIsModalOpen, isModalOpen }) {
   const [isScrolled, setIsScrolled] = useState(false);
   // const { cartItems } = useContext(ShoppingCartContext);
+  const { auth, logout } = useAuth();
 
   useEffect(() => {
     const handleScroll = () => {
@@ -82,7 +85,10 @@ function Header({ isOpen, setIsOpen, setIsModalOpen, isModalOpen }) {
           </ul>
 
           <div className="flex gap-4 items-center">
-            <ProfileIcon />
+            {auth && <button  onClick={logout}><LogOut /></button>}
+
+            {auth || <ProfileIcon />}
+
             <div className="flex row flex-row-reverse relative">
               {/* {cartItems.length > 0 ? (
                 <div className="bg-red-600 w-5 h-5  rounded-full items-start text-center pb-1 text-white font-primary font-bold">

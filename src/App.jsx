@@ -10,6 +10,7 @@ import CartModal from "./components/CartModal";
 import Login from "./pages/Login";
 import Register from "./pages/Register";
 import AuthRoute from "./components/AuthRoute";
+import AuthProvider from "./context/AuthProvider";
 
 function App() {
   const [isOpen, setIsOpen] = useState(false);
@@ -32,19 +33,14 @@ function App() {
             setIsModalOpen={setIsModalOpen}
           />
         ) : null}
-
-        <Routes>
-          {/* <Route element={<AuthRoute />}>
-
-          <Route path="/" element={<Home />} />
-
-          </Route> */}
-          <Route path="/" element={<Home />} />
-          <Route path="/product-details/:id" element={<ProductDetails />} />
-          <Route path="/login" element={<Login />} />
-          <Route path="/Register" element={<Register />} />
-          <Route path="*" element={<Page404 />} />
-        </Routes>
+     
+          <Routes>
+            <Route path="/" element={<Home />} />
+            <Route path="/product-details/:id" element={<ProductDetails />} />
+            <Route path="/login" element={<Login />} />
+            <Route path="/Register" element={<Register />} />
+            <Route path="*" element={<Page404 />} />
+          </Routes>
 
         <Footer />
       </section>

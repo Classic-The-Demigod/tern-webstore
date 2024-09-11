@@ -1,33 +1,47 @@
 import { createContext, useEffect, useState } from "react";
 import supabase from "../config/supabase";
-
+import { useAuth } from "./AuthProvider";
 
 export const ShoppingCartContext = createContext(null);
 
 function ShoppingCartProvider({ children }) {
   const [items, setItems] = useState([]);
-  const [productDetails, setProductDetails] = useState([])
-  const [loading, setLoading] = useState(false)
+  const [productDetails, setProductDetails] = useState([]);
+  const [loading, setLoading] = useState(false);
+
   
+ 
+
   useEffect(() => {
     fetchItems();
   }, []);
 
   async function fetchItems() {
     try {
-      setLoading(true)
+      setLoading(true);
       const { data, error } = await supabase.from("products").select();
-      if (error) throw error
-     
+      if (error) throw error;
+
       setItems(data);
-      setLoading(false)
+      setLoading(false);
       console.log("Items fetched:", data);
     } catch (error) {
       console.error("Error fetching items:", error);
     }
   }
 
+  const addToCart = async (userId, productId, quantity) => {
+    const { data, error } = await supabase
+      .from("cart")
+      .upsert({ user_id: userId, product_id: productId, quantity })
+      .select();
 
+    console.log(cartItems);
+    if (error) throw error;
+    return data;
+  };
+
+ 
 
   return (
     <ShoppingCartContext.Provider
@@ -37,6 +51,7 @@ function ShoppingCartProvider({ children }) {
         setProductDetails,
         loading,
         setLoading,
+        addToCart,
       }}
     >
       {children}
@@ -49,11 +64,6 @@ function ShoppingCartProvider({ children }) {
 //   const [productList, setProductList] = useState([]);
 //   const [productDetails, setProductDetails] = useState([]);
 //   const [cartItems, setCartItems] = useState([]);
-
-
-
-
-
 
 //   async function fetchProducts() {
 //     try {
@@ -128,12 +138,10 @@ function ShoppingCartProvider({ children }) {
 //     });
 //   }
 
-
-
 //   useEffect(() => {
 
 //     fetchProducts();
- 
+
 //     const storedCartItems = JSON.parse(
 //       localStorage.getItem("cartItems") || "[]"
 //     );

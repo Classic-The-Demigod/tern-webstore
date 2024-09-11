@@ -4,8 +4,9 @@ import CartTile from "./CartTile"
 
 
 function CartModal({ isModalOpen, setIsModalOpen }) {
-  const { cartItems } = useContext(ShoppingCartContext);
-  console.log(cartItems);
+
+  
+  
   return (
     <>
       <div
@@ -17,7 +18,7 @@ function CartModal({ isModalOpen, setIsModalOpen }) {
           <h1 className="text-3xl font-bold">Shopping Cart</h1>
 
           <div className="flex flex-col gap-4">
-            {cartItems.length > 0 ? (
+            {/* {cartItems.length > 0 ? (
               cartItems.map((singleCartItem) => (
                 <CartTile
                   singleCartItem={singleCartItem}
@@ -26,7 +27,7 @@ function CartModal({ isModalOpen, setIsModalOpen }) {
               ))
             ) : (
               <h1>Add Some Items!</h1>
-            )}
+            )} */}
           </div>
         </main>
       </section>

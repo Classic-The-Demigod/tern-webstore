@@ -1,8 +1,10 @@
 import React from "react";
 import { Link, useNavigate } from "react-router-dom";
+import { useAuth } from "../context/AuthProvider";
 
 function MobileNav({ isOpen, setIsOpen }) {
   const navigate = useNavigate();
+  const {auth, logout} = useAuth()
 
   function handleNavigatetoLogin() {
     setIsOpen(false)
@@ -28,12 +30,32 @@ function MobileNav({ isOpen, setIsOpen }) {
         <Link className="font-primary">JACKETS</Link>
         <Link className="font-primary">HEADWEAR</Link>
         <Link className="font-primary">NEED HELP?</Link>
-        <button onClick={handleNavigatetoLogin} className="bg-black self-start font-primary text-white w-[90%] py-3 rounded-xl">
-          Log In
-        </button>
-        <button onClick={handleNavigatetoRegister} className="bg-white self-start font-primary text-black w-[90%] py-3 rounded-xl border-2 border-black">
-          Register
-        </button>
+
+        {auth && (
+          <button
+            onClick={logout}
+            className="bg-red-600 self-start font-primary text-white w-[90%] py-3 rounded-xl"
+          >
+            Log Out
+          </button>
+        )}
+
+        {auth || (
+          <div className="space-y-4">
+            <button
+              onClick={handleNavigatetoLogin}
+              className="bg-black self-start font-primary text-white w-[90%] py-3 rounded-xl"
+            >
+              Log In
+            </button>
+            <button
+              onClick={handleNavigatetoRegister}
+              className="bg-white self-start font-primary text-black w-[90%] py-3 rounded-xl border-2 border-black"
+            >
+              Register
+            </button>
+          </div>
+        )}
       </ul>
     </div>
   );

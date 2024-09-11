@@ -2,17 +2,18 @@ import React, { useContext, useEffect, useState } from "react";
 import ProductList from "../components/ProductList";
 import Banner from "../assets/banner.jpg";
 import Demo from "../assets/demo.webp";
-import supabase from "../config/supabase";
-import { ShoppingCartContext } from "../context/CartContext";
+
+
 import { useAuth } from "../context/AuthProvider";
 
 function Home() {
   const { user } = useAuth();
+  console.log(user)
 
   return (
     <section className="overflow-hidden">
       <div className="w-[90%] md:w-[80%] mx-auto">
-        {/* <div>You are logged in and your email address is {user.email}</div>; */}
+        {/* <div>You are logged in and your email address is {user.email}</div> */}
         <ProductList />
       </div>
       <main className="my-8">

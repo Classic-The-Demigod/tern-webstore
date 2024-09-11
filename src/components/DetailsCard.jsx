@@ -2,10 +2,18 @@ import { useContext, useState } from "react";
 import ArrowDown from "./ArrowDown";
 import Truck from "./Truck";
 import ProductCard from "./ProductCard";
+import { useAuth } from "../context/AuthProvider";
 import { ShoppingCartContext } from "../context/CartContext";
+import { useNavigate } from "react-router-dom";
+
 
 function DetailsCard({ productDetails }) {
   const [accordion, setAccordion] = useState(false);
+  const { user, auth } = useAuth()
+  const {addToCart} = useContext(ShoppingCartContext)
+  const navigate = useNavigate()
+  
+
   // const { productList } = useContext(ShoppingCartContext);
   // const [category, setCategory] = useState(productDetails?.category);
 
@@ -15,6 +23,20 @@ function DetailsCard({ productDetails }) {
   //   (product) => product?.category === productDetails?.category
   // );
   // console.log(filteredProducts);
+
+  const handleAddToCart = async () => {
+    if (!auth) {
+      navigate("/register");
+      return;
+    }
+    try {
+      await addToCart(user.id, productDetails?.id, 1); // Assuming you're adding one item at a time
+      // Show a success message or update the UI as needed
+    } catch (error) {
+      console.error("Error adding to cart:", error);
+      // Handle the error (e.g., show an error message to the user)
+    }
+  };
 
   function handleAccordion() {
     setAccordion(!accordion);
@@ -74,7 +96,7 @@ function DetailsCard({ productDetails }) {
 
           <button
             className="border-black  text-black border py-3 px-8 rounded-lg hover:bg-black hover:text-white transition:all duration-300 ease-in"
-            onClick={() => handleAddToCart(productDetails)}
+            onClick={() => handleAddToCart()}
           >
             Add To Cart
           </button>
