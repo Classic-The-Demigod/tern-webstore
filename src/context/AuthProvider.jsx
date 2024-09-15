@@ -63,31 +63,33 @@ const AuthProvider = ({ children }) => {
     }
   };
 
-  // const getCartItems = async (userId) => {
-  //   const { data, error } = await supabase
-  //     .from("cart")
-  //     .select(
-  //       `
-  //     *,
-  //     products:product_id (
-  //       id,
-  //       title,
-  //       image,
-  //       price
-  //     )
-  //   `
-  //     )
-  //     .eq("user_id", userId);
-  //   setCartItems(data);
-  //   console.log(cartItems);
+  
 
-  //   if (error) throw error;
-  //   return data;
-  // };
+  const getCartItems = async (userId) => {
+    const { data, error } = await supabase
+      .from("cart")
+      .select(
+        `
+      *,
+      products:product_id (
+        id,
+        title,
+        image,
+        price
+      )
+    `
+      )
+      .eq("user_id", userId);
+    setCartItems(data);
+    console.log(cartItems);
 
-  // useEffect(() => {
-  //   getCartItems(user?.id);
-  // }, []);
+    if (error) throw error;
+    return data;
+  };
+
+  useEffect(() => {
+    getCartItems(user?.id);
+  }, []);
 
   return (
     <AuthContext.Provider value={{ user, login, logout, auth, loading }}>

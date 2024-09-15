@@ -8,7 +8,7 @@ function ShoppingCartProvider({ children }) {
   const [items, setItems] = useState([]);
   const [productDetails, setProductDetails] = useState([]);
   const [loading, setLoading] = useState(false);
-
+  const [cartItems, setCartItems] = useState([])
   
  
 
@@ -35,7 +35,7 @@ function ShoppingCartProvider({ children }) {
       .from("cart")
       .upsert({ user_id: userId, product_id: productId, quantity })
       .select();
-
+    setCartItems[data]
     console.log(cartItems);
     if (error) throw error;
     return data;

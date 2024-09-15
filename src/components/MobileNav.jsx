@@ -17,7 +17,7 @@ function MobileNav({ isOpen, setIsOpen }) {
   }
   return (
     <div
-      className={`w-[90%] left-0 md:hidden  h-[1000vh] mx-auto absolute z-10 transform transition-transform duration-500 ease-in-out  bg-white shadow-right-custom  ${
+      className={`w-[90%] left-0 md:hidden  h-full mx-auto absolute z-10 transform transition-transform duration-500 ease-in-out  bg-white shadow-right-custom overflow-y-hidden  ${
         isOpen ? "translate-x-0" : "translate-x-full"
       } `}
     >
